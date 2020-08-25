@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Machine Learning|Deep Learning|Data visualization.
 - 💬 Ask me about I will try to help you as much as I can.
 - 📫 How to reach me: ...
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/taeminHan) 
+|[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/taeminHan)|
 <!--
 **taeminHan/taeminHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
