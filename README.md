@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-😀I'm a junior **Soft Engineering Student** at Anyang.Univ and studying  Machine Learning and Deep Learning.
+😀I'm a junior **Soft Engineering Student** at Anyang University and studying  Machine Learning and Deep Learning.
 
 
 - 🌱 I’m currently learning Machine Learning|Deep Learning|Data visualization.
