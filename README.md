@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/taeminHan) |  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="dev logo" width="24">](https://www.instagram.com/kyle_05.15/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](amchu1714@gmail.com)
-|---|---|---|---|---|---|
+|---|---|---|
 <!--
 **taeminHan/taeminHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
