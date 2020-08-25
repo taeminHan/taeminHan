@@ -1,7 +1,10 @@
-### Hi there 👋 I-m taemin Han
+### Hi there 👋 I'm taemin Han
 
-😀I'm a junior **Soft Engineering Student** at Anyang University and studying  Machine Learning and Deep Learning.
 
+
+I'm **taemin Han**, a junior **Soft Engineering Student** at Anyang University and studying  Machine Learning and Deep Learning.
+
+:kr:
 
 - 🌱 I’m currently learning Machine Learning|Deep Learning|Data visualization.
 - 💬 Ask me about I will try to help you as much as I can.
