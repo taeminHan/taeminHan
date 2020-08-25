@@ -14,7 +14,7 @@ Club president of programming club goorm
 
 - 🌱 I’m currently learning Machine Learning|Deep Learning|Data visualization.
 - 💬 Ask me about I will try to help you as much as I can.
-- 📫 How to reach me: ...
+- 📫 How to reach me:
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/taeminHan) |  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="dev logo" width="24">](https://www.instagram.com/kyle_05.15/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](taemin9705@gmail.com)
 |---|---|---|
