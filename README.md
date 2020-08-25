@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
 
+😀I'm a junior Computer Engineering Student at Anyang.Univ and studying  Machine Learning and Deep Learning.
 <!--
 **taeminHan/taeminHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
