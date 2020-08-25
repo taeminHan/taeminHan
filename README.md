@@ -3,8 +3,14 @@
 
 
 I'm **taemin Han**, a junior **Soft Engineering Student** at Anyang University and studying  Machine Learning and Deep Learning.
+Club president of programming club goorm
 
-:kr:
+| :kr: | 🎓 | Python | tensorflow | Machine Learning | Deep Learning |
+
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 - 🌱 I’m currently learning Machine Learning|Deep Learning|Data visualization.
 - 💬 Ask me about I will try to help you as much as I can.
