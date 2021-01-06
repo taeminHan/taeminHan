@@ -19,7 +19,8 @@ Club president of programming club goorm
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeminHan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
