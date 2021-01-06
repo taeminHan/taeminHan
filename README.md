@@ -13,7 +13,9 @@ Club president of programming club goorm
 
   https://www.notion.so/kylereport/Kyle-s-Report-ef5b2e3d885c463abb79453b868b3033
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyle_05.15/">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyle_05.15/"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/kylereport/Kyle-s-Report-ef5b2e3d885c463abb79453b868b3033" >
+
+
 
 
 **Technology Stack:**
