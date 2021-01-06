@@ -13,13 +13,14 @@ Club president of programming club goorm
 
   https://www.notion.so/kylereport/Kyle-s-Report-ef5b2e3d885c463abb79453b868b3033
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/taeminHan) |  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="dev logo" width="24">](https://www.instagram.com/kyle_05.15/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](taemin9705@gmail.com)
-|---|---|---|
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyle_05.15/">
 
 
-**Languages and Tools:**
+**Technology Stack:**
 
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"> 
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeminHan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
