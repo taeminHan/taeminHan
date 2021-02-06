@@ -33,6 +33,8 @@ Club president of programming club goorm
   **2020**
   
       안양대학교 프로그래밍 동아리 Goorm 개설 및 회장
+      
+      랜덤비식별화 프로그램 개발
 
       COVID-19를 주제로 삼아 마스크 감지 서비스 개발. 현재 개발 중단
     
