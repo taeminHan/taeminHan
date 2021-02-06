@@ -8,7 +8,25 @@ Club president of programming club goorm
 | :kr: | 🎓 | Python | tensorflow | Machine Learning | Deep Learning |
 
 - 🌱 I’m currently learning Machine Learning|Deep Learning|Data visualization.
-- 💬 Ask me about I will try to help you as much as I can.
+- 💬
+  2015 
+    마이크로소프트 #WespeakCode ImagineCamps 수료
+  2016 
+    경성고등학교 졸업
+  2016 
+    안양대학교 컴퓨터학과 입학
+  2017 
+    안양대학교 소프트웨어학과 전과
+  2018-2019 
+    육군 대형차량 운전병 복무
+    제 5포병여단 육군용사상 표창
+  2020
+    안양대학교 프로그래밍 동아리 Goorm 개설 및 회장
+    COVID-19를 주제로 삼아 마스크 감지 서비스 개발
+  2021
+    시각장애인을위한 인공지능 상품 인식 서비스 개발중
+
+
 - 📫 How to reach me:
 
 
