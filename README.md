@@ -32,7 +32,7 @@ Club president of programming club goorm
     
   **2020**
       
-      머신러닝 야학 
+      머신러닝 야학 수료
       
       안양대학교 프로그래밍 동아리 Goorm 개설 및 회장
       
