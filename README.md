@@ -31,7 +31,9 @@ Club president of programming club goorm
       제 5포병여단 육군용사상 표창
     
   **2020**
-  
+      
+      머신러닝 야학 
+      
       안양대학교 프로그래밍 동아리 Goorm 개설 및 회장
       
       랜덤비식별화 프로그램 개발
