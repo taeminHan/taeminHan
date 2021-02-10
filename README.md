@@ -34,6 +34,8 @@ Club president of programming club goorm
       
       머신러닝 야학 수료
       
+      한빛미디어 혼자 공부하는 첫 프로그래밍 with 파이썬 베타리더 및 서평
+      
       안양대학교 프로그래밍 동아리 Goorm 개설 및 회장
       
       랜덤비식별화 프로그램 개발
