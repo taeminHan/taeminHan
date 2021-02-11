@@ -1,9 +1,11 @@
 ### Hi there 👋 I'm taemin Han
 
+안양대학교 소프트웨어학과 재학중이며 프로그래밍 동아리 goorm의 회장입니다.
 
+딥러닝 엔지니어를 목표로 공부중입니다.
 
-I'm **taemin Han**, a junior **Soft Engineering Student** at Anyang University and studying  Machine Learning and Deep Learning.
-Club president of programming club goorm
+아직은 부족하지만 언제나 새로운 것을 탐구 중입니다.
+
 
 | :kr: | 🎓 | Python | tensorflow | Machine Learning | Deep Learning |
 
