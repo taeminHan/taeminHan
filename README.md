@@ -45,6 +45,7 @@ Club president of programming club goorm
   **2021**
 
       시각장애인을위한 인공지능 상품 인식 서비스 개발중
+      모션 키포인트 검출 AI 경진대회 참여
 
 
 - 📫 How to reach me:
