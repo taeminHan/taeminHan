@@ -17,8 +17,7 @@
 
 | :kr: | 🎓 | Python | tensorflow | Machine Learning | Deep Learning |
 
-- 🌱 I’m currently learning Machine Learning|Deep Learning|Data visualization.
-- 💬
+- 💬 나는 무엇을 했을까?
 
   **2015**
   
