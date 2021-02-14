@@ -6,6 +6,14 @@
 
 아직은 부족하지만 언제나 새로운 것을 탐구 중입니다.
 
+- [시각장애인을 위한 상품 구매 보조 어플리케이션](https://github.com/taeminHan/What-sYourMerchandise)
+
+- [Today I Learn](https://github.com/taeminHan/TIL)
+
+- [실시간 영상 인식기반 마스크 착용 검사 프로그램](https://github.com/taeminHan/mask_detection)
+
+- [Deeplearning Study](https://github.com/taeminHan/Deep-Learning-Study)
+
 
 | :kr: | 🎓 | Python | tensorflow | Machine Learning | Deep Learning |
 
