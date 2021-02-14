@@ -17,7 +17,7 @@
 
 | :kr: | 🎓 | Python | tensorflow | Machine Learning | Deep Learning |
 
-- 💬 나는 무엇을 했을까?
+- 💬 **나는 무엇을 했을까?**
 
   **2015**
   
