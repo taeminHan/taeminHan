@@ -14,6 +14,8 @@
 
 - [📖Deeplearning Study](https://github.com/taeminHan/Deep-Learning-Study)
 
+- [🐳Docker학습](https://www.notion.so/kylereport/Docker-Kubernetes-36096ba7b9ed47b1adee0ec9958c9fce)
+
 
 | :kr: | 🎓 | Python | tensorflow | Machine Learning | Deep Learning |
 
