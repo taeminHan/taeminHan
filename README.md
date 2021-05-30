@@ -75,10 +75,6 @@ Velog
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeminHan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **taeminHan/taeminHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
