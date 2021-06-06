@@ -6,8 +6,6 @@
 
 아직은 부족하지만 언제나 새로운 것을 탐구 중입니다.
 
-Velog
-
 - [🔍시각장애인을 위한 상품 구매 보조 어플리케이션](https://github.com/taeminHan/What-sYourMerchandise)
 
 - [✏Today I Learn](https://github.com/taeminHan/TIL)
