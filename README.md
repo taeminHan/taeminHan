@@ -17,7 +17,8 @@
 - [🐳Docker학습](https://www.notion.so/kylereport/Docker-Kubernetes-36096ba7b9ed47b1adee0ec9958c9fce)
 
 - [안양대학교 사이버강의실 과제 확인 어플 냥냠대](https://github.com/Goorm-IT/NyanYumUniv)
-- [IOS](https://apps.apple.com/sa/app/%EB%83%A5%EB%83%A0%EB%8C%80/id1588009201) [Android](https://play.google.com/store/apps/details?id=goorm.It)
+
+    [AppStore](https://apps.apple.com/sa/app/%EB%83%A5%EB%83%A0%EB%8C%80/id1588009201) [PlayStore](https://play.google.com/store/apps/details?id=goorm.It)
 
 
 | :kr: | 🎓 | Python | tensorflow | Machine Learning | Deep Learning | SpringBoot | Java | Kotlin | Dart | Flutter
