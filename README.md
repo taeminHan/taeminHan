@@ -16,10 +16,10 @@
 
 - [🐳Docker학습](https://www.notion.so/kylereport/Docker-Kubernetes-36096ba7b9ed47b1adee0ec9958c9fce)
 
-- [안양대학교 사이버강의실 과제 확인 어플](https://github.com/Goorm-IT/Daenora)
+- [안양대학교 사이버강의실 과제 확인 어플](https://github.com/Goorm-IT/NyanYumUniv)
 
 
-| :kr: | 🎓 | Python | tensorflow | Machine Learning | Deep Learning |
+| :kr: | 🎓 | Python | tensorflow | Machine Learning | Deep Learning | SpringBoot | Java | Kotlin | Dart | Flutter
 
 - 💬 **나는 무엇을 했을까?**
 
