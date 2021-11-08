@@ -12,10 +12,6 @@
 
 - [🤿실시간 영상 인식기반 마스크 착용 검사 프로그램](https://github.com/taeminHan/mask_detection)
 
-- [📖Deeplearning Study](https://github.com/taeminHan/Deep-Learning-Study)
-
-- [🐳Docker학습](https://www.notion.so/kylereport/Docker-Kubernetes-36096ba7b9ed47b1adee0ec9958c9fce)
-
 - [안양대학교 사이버강의실 과제 확인 어플 냥냠대](https://github.com/Goorm-IT/NyanYumUniv)
 
     [AppStore](https://apps.apple.com/sa/app/%EB%83%A5%EB%83%A0%EB%8C%80/id1588009201) [PlayStore](https://play.google.com/store/apps/details?id=goorm.It)
@@ -50,14 +46,11 @@
       한빛미디어 혼자 공부하는 첫 프로그래밍 with 파이썬 베타리더 및 서평 작성
       안양대학교 IT 동아리 Goorm 개설 및 회장
       랜덤비식별화 프로그램 개발
-      COVID-19를 주제로 삼아 마스크 감지 서비스 개발. 현재 개발 중단
     
   **2021**
 
-      시각장애인을위한 인공지능 상품 인식 서비스 개발중
-      제 2회 컴퓨터 비전 학습 경진대회 참여
-      모션 키포인트 검출 AI 경진대회 참여
-      안양대 학생을 위한 어플리케이션 개발 프로젝트
+      시각장애인을위한 인공지능 상품 인식 서비스 개발
+      안양대학교 과제확인 어플리케이션 '냥냠대' 개발
       GDE와 함께하는 혼자 또는 같이하는 머신러닝 캐글 코스 스터디 잼 수료
       안양대학교 과제 알림 어플 제작
       백엔드 공부
