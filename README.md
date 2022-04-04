@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>&nbsp
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
+  
 </p>
 
 <p align="center">🚀Channel</p>
